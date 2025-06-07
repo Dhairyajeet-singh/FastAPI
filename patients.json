@@ -1,0 +1,52 @@
+{
+  "P001": {
+    "name": "Aarav Sharma",
+    "age": 25,
+    "city": "Delhi",
+    "gender": "Male",
+    "height_cm": 170,
+    "weight_kg": 58,
+    "bmi": 20.1,
+    "verdict": "underweight"
+  },
+  "P002": {
+    "name": "Priya Verma",
+    "age": 32,
+    "city": "Mumbai",
+    "gender": "Female",
+    "height_cm": 160,
+    "weight_kg": 70,
+    "bmi": 27.3,
+    "verdict": "overweight"
+  },
+  "P003": {
+    "name": "Rohan Mehta",
+    "age": 29,
+    "city": "Bangalore",
+    "gender": "Male",
+    "height_cm": 175,
+    "weight_kg": 85,
+    "bmi": 27.8,
+    "verdict": "overweight"
+  },
+  "P004": {
+    "name": "Ananya Sen",
+    "age": 22,
+    "city": "Kolkata",
+    "gender": "Female",
+    "height_cm": 155,
+    "weight_kg": 90,
+    "bmi": 37.5,
+    "verdict": "obese"
+  },
+  "P005": {
+    "name": "Karan Patel",
+    "age": 40,
+    "city": "Ahmedabad",
+    "gender": "Male",
+    "height_cm": 168,
+    "weight_kg": 50,
+    "bmi": 17.7,
+    "verdict": "underweight"
+  }
+}
